@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491837764 source:c:\users\alumno\desktop\cadena de elementos vectores arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
